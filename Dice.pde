@@ -101,7 +101,7 @@ class Die //draws one die
     stroke(#000000);
     fill(#000000);
     textSize(35);
-    ellipse(285,650,75,45);
+    ellipse(265,650,75,45);
     fill(#ffffff);
     text("Grand Total: " + total,30,660);
   }
