@@ -101,7 +101,7 @@ class Die //draws one die
     stroke(#000000);
     fill(#000000);
     textSize(35);
-    rect(20,610,250,70);
+    rect(20,610,310,70);
     fill(#ffffff);
     text("Grand Total: " + total,30,660);
   }
